@@ -15,10 +15,8 @@
 <br>
 </div>
   <div style="display: inline_block">
-  <a href="https://github.com/Arthur-Nunes-Ds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Nunes-Ds&show_icons=true&theme=dracula&include_all_commits=true"/></a>      
-  <a href="https://github.com/Arthur-Nunes-Ds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Nunes-Ds&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula"/></a>  
+  <a href="https://github.com/Arthur-Nunes-Ds"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Nunes-Ds&show_icons=true&theme=dracula&include_all_commits=true"/></a> 
+  <a href="https://github.com/Arthur-Nunes-Ds"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Nunes-Ds&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula"/></a>  
 </div>
 <br>
 
