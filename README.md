@@ -1,4 +1,4 @@
-<h1>👋Olá a todos!! Eu sou o <strong>Arthur Nunes</strong>, Estudante de Desenvolvendo de Sistema!</h1>
+<h1>👋Olá a todos!! Eu sou <strong>Arthur Nunes</strong>, Estudante de Desenvolvendo de Sistema!</h1>
 <div style="display: inline_block"><br>
     <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" height="40" width="40" src="https://img.icons8.com/?size=512&id=bVGqATNwfhYq&format=png">
