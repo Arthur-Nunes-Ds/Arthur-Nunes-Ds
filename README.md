@@ -25,18 +25,14 @@
 <div align="left">
 
   <!-- GitHub Stats -->
-  <img height="180px" 
-       src="https://github-readme-stats.vercel.app/api?username=Arthur-Nunes-Ds&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=github&cache_seconds=86400"/>
+  <img height="180px" src="https://github-readme-stats-one-bice.vercel.app/api?username=Arthur-Nunes-Ds&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=github"/>
 
   <!-- Top Linguagens -->
-  <img height="180px"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Nunes-Ds&layout=compact&theme=dracula&cache_seconds=86400"/>
+  <img height="180px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Arthur-Nunes-Ds&layout=compact&theme=dracula"/>
 
   <!-- Troféus -->
-  <img height="180px"
-       src="https://github-profile-trophy.vercel.app/?username=Arthur-Nunes-Ds&theme=tokyonight&row=1&column=3"/>
+  <img height="180px" src="https://github-trophies.vercel.app/?username=Arthur-Nunes-Ds&theme=tokyonight&row=1&column=3"/>
 
   <!-- Streak Stats -->
-  <img height="180px"
-       src="https://github-readme-streak-stats.herokuapp.com?user=Arthur-Nunes-Ds&theme=tokyonight"/>
+  <img height="180px" src="https://streak-stats.demolab.com/?user=Arthur-Nunes-Ds&theme=tokyonight"/>
 </div>
