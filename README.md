@@ -15,13 +15,28 @@
 
 [![Email](https://img.shields.io/badge/Email-arthurnunescarvalho2%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurnunescarvalho2@gmail.com)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Nunes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-nunes-de-carvalho-9ba20328a/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(11)%2099999--9999-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/556191732975)
+
 
 ---
 
 ### Estatísticas do GitHub:
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Nunes-Ds&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Nunes-Ds&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Arthur-Nunes-Ds&theme=tokyonight&row=2&column=3"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Arthur-Nunes-Ds&theme=tokyonight&hide_border=false"/>
-</p>
+
+<div align="left">
+
+  <!-- GitHub Stats -->
+  <img height="180px" 
+       src="https://github-readme-stats.vercel.app/api?username=Arthur-Nunes-Ds&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=github&cache_seconds=86400"/>
+
+  <!-- Top Linguagens -->
+  <img height="180px"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Nunes-Ds&layout=compact&theme=dracula&cache_seconds=86400"/>
+
+  <!-- Troféus -->
+  <img height="180px"
+       src="https://github-profile-trophy.vercel.app/?username=Arthur-Nunes-Ds&theme=tokyonight&row=1&column=3"/>
+
+  <!-- Streak Stats -->
+  <img height="180px"
+       src="https://github-readme-streak-stats.herokuapp.com?user=Arthur-Nunes-Ds&theme=tokyonight"/>
+</div>
