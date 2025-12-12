@@ -13,9 +13,9 @@
 
 ### Contatos:
 
-[![Email](https://img.shields.io/badge/Email-arthurnunescarvalho2%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurnunescarvalho2@gmail.com)<br>
+[![Email](https://img.shields.io/badge/Email-arthurnunescarvalho2%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurnunescarvalho2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Nunes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-nunes-de-carvalho-9ba20328a/)<br>
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(61)%209173--2975-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/556191732975)<br>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(61)%209173--2975-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/556191732975)
 [![Instagram](https://img.shields.io/badge/Instagram-NunesDevelopper-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nunesdevelopper?igsh=MThocjRxOTB0MDUwcg==)<br>
 [![Facebook](https://img.shields.io/badge/Facebook-NunesDevelopper-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1N17iHim2t/)
 
