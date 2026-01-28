@@ -1,4 +1,4 @@
-# 👋 Olá a todos!! Eu sou: **Arthur Nunes**, Desenvolvedor de Sistemas!
+# 👋 Olá a todos!! Eu sou: **Arthur Nunes**, Desenvolvedor Full Stack!
 
 ### Minhas linguagens/ferramentas que domino:
 <p align="left">
