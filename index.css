@@ -1,0 +1,151 @@
+/*font custon*/
+@font-face {
+  font-family: 'Locanita';
+  src: url('font/locanita/Locanita.otf') format('opentype'),
+       url('font/locanita/Locanita.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+    background: linear-gradient(to right top, #d16ba5, #5ffbf1);
+    background-size: 400% 400%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    animation: gradientMove 10s ease infinite;
+    font-family: 'Locanita';
+  }
+
+@keyframes gradientMove {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.foto_perfil{
+  width: 250px;
+  height: 250px;
+  border-radius: 50%; 
+  object-fit: cover; 
+}
+
+.div_perfil{
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;  
+  background-color: #ffffff3e;  
+  margin-top: 100px;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+.visualizador{
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+
+}
+
+p{
+    font-size: 30px;
+}
+
+.social-container {
+    display: flex;
+    gap: 20px;
+}
+
+.social-container a {
+    width: 60px;
+    height: 60px;
+    background-color: #1e293b;
+    color: white;
+    font-size: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    transition: transform 0.3s, background-color 0.3s;
+}
+
+.social-container a:hover {
+    transform: scale(1.15);
+}
+
+/* Cores específicas */
+.github:hover {
+    background-color: #333;
+}
+
+.email:hover {
+    background-color: #ea4335;
+}
+
+.linkedin:hover {
+    background-color: #0a66c2;
+}
+
+.facebook:hover {
+    background-color: #1877f2;
+}
+
+.instagram:hover {
+    background: linear-gradient(
+        45deg,
+        #f09433,
+        #e6683c,
+        #dc2743,
+        #cc2366,
+        #bc1888
+    );
+}
+
+#area-certificado {
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    gap: 40px; /* Aumentei o espaço para as setas não colarem no PDF */
+    margin-top: 20px;
+    min-height: 500px; /* Garante que o layout não suba/desça se o PDF demorar a carregar */
+    width: 100%;
+    max-width: 1000px; /* Limita a largura máxima do conjunto */
+}
+
+.seta {
+    background-color: #1e293b;
+    color: white;
+    border: none;
+    /* Tamanho fixo para as setas não mudarem */
+    min-width: 55px; 
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    font-size: 24px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s, background-color 0.3s;
+    font-family: 'Arial', sans-serif;
+    flex-shrink: 0; /* Impede que a seta seja esmagada se o canvas for grande */
+}
+
+#pdf-canvas {
+    max-width: 700px; /* Define um limite para o PDF */
+    width: 100%;     /* Faz ele ser responsivo */
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}

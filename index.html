@@ -1,1 +1,45 @@
-inde
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nunes Develloper</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="index.css">
+    <link rel="icon" href="assets/icons8-código-office-l-16.png" type="image/png">
+</head>
+<body> 
+    <div class="div_perfil">
+        <img class="foto_perfil" 
+        src="assets/151405360.jpg" alt="foto da github">
+        <p> Olá, me chamo: <strong>Arthur Nunes.</strong><br> 
+            Atualmente estudo Python ,C# ,C++ ,React ,Java ,SQL. <br>
+            Alem de está fazendo o cursso de desenvolvimento de sistema do Senai.
+        </p>
+        <h1>Meus Contados:</h1>
+        <div class="social-container">
+            <a href="https://github.com/NunesDevelloper" target="_blank" class="github"><i class="fab fa-github"></i></a>
+
+            <a href="mailto:arthurnunescarvalho2@gmail.com" class="email"><i class="fas fa-envelope"></i></a>
+
+            <a href="https://www.linkedin.com/in/arthur-nunes-de-carvalho-9ba20328a" target="_blank" class="linkedin"><i class="fab fa-linkedin"></i></a>
+
+            <a href="https://www.facebook.com/profile.php?id=61584826235616" target="_blank" class="facebook"><i class="fab fa-facebook"></i></a>
+
+            <a href="https://www.instagram.com/nunesdevelopper" target="_blank" class="instagram"><i class="fab fa-instagram"></i></a>
+        </div>
+
+    </div>
+    <div id="visualizador-certificado" class="visualizador">
+        <h1>Alguns certificados meus:</h1>
+        <p id="nome-certificado" class="area-certificado"></p>
+        <div id="area-certificado">
+            <button id="btn-voltar" class="seta"><</button>
+            <canvas id="pdf-canvas"></canvas>
+            <button id="btn-avancar" class="seta">></button>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>
