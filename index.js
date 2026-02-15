@@ -11,7 +11,9 @@ const certificados = [
     "inovacao, Arte e Empreendedorismo 24.pdf",
     "introducao a Ciberseguranca.pdf",
     "python 1 cisco.pdf",
-    "python 2 cisco.pdf"
+    "python 2 cisco.pdf",
+"Despertando_a_Criatividade_e_a_Inovacão-Certificado_7997.pdf",
+"Elevacão_Sustentavel_Dominio_do_ESG_para_um_Futuro_Responsavel-Certificado_7993.pdf"
 ];
 
 pdfjsLib.GlobalWorkerOptions.workerSrc =
